@@ -1,0 +1,6 @@
+@WardrobeManager_loginAPI_HostAddress = http://localhost:5056
+
+GET {{WardrobeManager_loginAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
